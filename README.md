@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Magazine Cutout
 
 Welcome to Magazine Cutout on Exercism's Rust Track.
